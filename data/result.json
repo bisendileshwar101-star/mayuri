@@ -1,0 +1,22 @@
+[
+    {
+        "student_id": 2,
+        "test_id": 101,
+        "test_title": "Python Basics",
+        "score": 1,
+        "total_marks": 1,
+        "correct": 1,
+        "wrong": 0,
+        "perentage": 100.0,
+        "answers": [
+            {
+                "question_id": 1,
+                "question": "What is Python?",
+                "student_answer": "Programming Language",
+                "correct_answer": "Programming Language",
+                "marks": 1,
+                "status": "Correct"
+            }
+        ]
+    }
+]
